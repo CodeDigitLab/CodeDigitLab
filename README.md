@@ -1,6 +1,6 @@
 ### Hi, this is CodeDigitLab 👋
 
-Full-stack web development lab with [X]+ years of experience building and
+Full-stack web development lab with 10+ years of experience building and
 maintaining web applications — from requirements analysis to production.
 
 **Main stack**
