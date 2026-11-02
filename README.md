@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, this is CodeDigitLab 👋
 
-<!--
-**CodeDigitLab/CodeDigitLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web development lab with [X]+ years of experience building and
+maintaining web applications — from requirements analysis to production.
 
-Here are some ideas to get you started:
+**Main stack**
+- Backend: PHP, Laravel, WordPress
+- Frontend: JavaScript, TypeScript, React, Vue.js
+- Databases: MySQL, PostgreSQL
+- Tools: Git, Linux, Docker, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What we do**
+Custom web apps, dashboards, API integrations and e-commerce.
+Currently contributing to open source — bug fixes, features and bounties.
